@@ -1,0 +1,25 @@
+{
+  "name": "express-router-and-libraries",
+  "version": "1.0.0",
+  "description": "'routing'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saritakha/Express-router-and-libraries.git"
+  },
+  "author": "Sarita khanal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saritakha/Express-router-and-libraries/issues"
+  },
+  "homepage": "https://github.com/saritakha/Express-router-and-libraries#readme",
+  "dependencies": {
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.3",
+    "moment": "^2.22.0",
+    "node-notifier": "^5.2.1"
+  }
+}
